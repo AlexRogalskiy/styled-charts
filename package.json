@@ -53,9 +53,9 @@
         "formidable": "^1.2.2",
         "isomorphic-unfetch": "^3.1.0",
         "jsdom": "^16.5.3",
-        "lodash": "^4.17.20",
-        "lodash.clonedeep": "^4.5.0",
-        "lodash.isequal": "^4.5.0",
+        "lodash": "4.17.21",
+        "lodash.clonedeep": "4.5.0",
+        "lodash.isequal": "4.5.0",
         "plotly.js-dist": "^1.58.4",
         "plotly.js-geo-dist": "^1.58.4",
         "qs": "^6.5.0"
