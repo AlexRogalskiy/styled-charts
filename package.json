@@ -74,7 +74,7 @@
         "@vercel/node": "^1.9.0",
         "boxen": "^5.0.0",
         "canvas": "^2.8.0",
-        "codecov": "3.8.1",
+        "codecov": "3.8.3",
         "conventional-changelog-cli": "^2.0.0",
         "coveralls": "^3.0.0",
         "dateformat": "^4.5.1",
